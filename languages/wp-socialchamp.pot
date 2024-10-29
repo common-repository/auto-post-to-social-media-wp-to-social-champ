@@ -1,0 +1,157 @@
+# Copyright (C) 2022 SocialChamp
+# This file is distributed under the same license as the Auto Post to Social Media - WP to Social Champ plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Post to Social Media - WP to Social Champ 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-socialchamp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-29T12:17:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wp-socialchamp\n"
+
+#. Plugin Name of the plugin
+msgid "Auto Post to Social Media - WP to Social Champ"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-social-champ/"
+msgstr ""
+
+#. Description of the plugin
+msgid "It sends WordPress Pages, Posts or Custom Post Types to your SocialChamp (SocialChamp.io) account for scheduled publishing to social networks."
+msgstr ""
+
+#. Author of the plugin
+msgid "SocialChamp"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.socialchamp.io/"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:35
+msgid "Social Champ Settings"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:35
+msgid "Social Champ"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:130
+msgid "If enabled, any status(es) configured here will be sent to Social Champ when a :singular_name is"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:135
+msgid "If enabled, any status(es) defined here will be sent to Social Champ when a :singular_name is"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:173
+msgid "Settings updated succesfully."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:258
+#: admin/class-wp-socialchamp-settings-init.php:280
+msgid "Authentication"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:264
+#: admin/class-wp-socialchamp-settings-init.php:313
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:281
+msgid "Authentication allows WordPress to schedule or post on your Social Champ account."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:287
+msgid "Thanks - you've authorized the plugin to connect with your Social Champ account."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:291
+msgid "Deauthorize Social Champ Profile."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:292
+msgid "Refresh Profiles."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:296
+msgid "To allow this Plugin to post to your Social Champ account, please authorize below."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:300
+msgid "Authorize SocialChamp Profile"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:314
+msgid "Provides options to enable test mode and force trailing forward-slash when publishing or updating Posts."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:319
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:325
+msgid "If enabled, status(es) are not sent to the Social Champ account but will appear in the Logs, if logging is enabled."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:331
+msgid "Force Trailing Forwardslash?"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:337
+msgid "If enabled, any URLs in statuses will always end with a forwardslash."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:352
+msgid "Log Settings"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:353
+msgid "Provides options to enable logging, display logs on Posts, and how long to keep logs for."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:358
+msgid "Enable Logging?"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:364
+msgid "If enabled, the Plugin Logs will list status(es) sent to the Social Champ account."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:386
+msgid "Log Level"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:394
+msgid "Tests"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:398
+msgid "Pending"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:401
+msgid "Warnings"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:404
+msgid "Errors"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:407
+msgid "Defines which log results to save to the Log database. Errors will always be logged."
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:413
+msgid "Preserve Logs"
+msgstr ""
+
+#: admin/class-wp-socialchamp-settings-init.php:497
+msgid "Enabling this means that the plugin will post to this social network if the conditions in the Defaults and Settings are met."
+msgstr ""
